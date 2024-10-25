@@ -1,6 +1,6 @@
 # Persian FastSpeech2
 
-**Persian FastSpeech2** is an adaptation of Microsoft's FastSpeech2, optimized for generating high-quality speech from Persian text. This project is based on [official implementation](https://github.com/ming024/FastSpeech2) 
+**Persian FastSpeech2** is an adaptation of FastSpeech2, optimized for generating high-quality speech from Persian text. This project is based on [official implementation](https://github.com/ming024/FastSpeech2) 
 and includes language-specific modifications to handle Persian phonemes and text structure.
 
 ## Overview
