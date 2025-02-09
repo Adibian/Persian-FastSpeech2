@@ -65,3 +65,9 @@ This project builds on:
 
 * [FastSpeech2 paper](https://arxiv.org/abs/2006.04558)
 * [FastSpeech2 implementation](https://github.com/ming024/FastSpeech2)
+
+
+## License  
+This project is based on [FastSpeech2](https://github.com/ming024/FastSpeech2),  
+which is licensed under the MIT License.  
+The modifications for Persian language support are © 2025 Majid Adibian.  
